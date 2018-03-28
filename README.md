@@ -1,50 +1,71 @@
 ## Benjamin Robert Challenor
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a creative junior full-stack developer who recently graduated from Makers Academy, Europes leading Web Development bootcamp in April 2018. After many years in retail I needed a new challenge and a change to my career path. I chose to become a developer because of my passion for creating things and I find solving problems gives me an enormous sense of achievement. I'm now looking for the opportunity to use the skills I've developed to increase my skillset and continue my learning.
+
+## Projects
+
+| Project   | Description | Technologies | Testing |
+|---        |---          |---           |---      |
+|[Bombercat](https://github.com/BenChallenor/bombercat)| A week 9 group project at Makers Academy. A remake of the classic arcade game Bomberman. | JavaScript, CreateJS library, jQuery, CSS, HTML. | Jasmine |
+|[Instagram Challenge](https://github.com/BenChallenor/instagram-challenge)| A weekend solo project to create a version of Instagram. Users can view, upload, delete, comment, and like posts. | Ruby on Rails, Postgres, CSS, HTML. | RSpec |
+|[Rock, Paper, Scissors Challenge](https://github.com/BenChallenor/rps-challenge)| A weekend solo project to create a web application of the classic game 'Rock, Paper, Scissors' | Ruby, Sinatra | RSpec, Cabybara. |
 
 ## Skills
 
-#### This Skill
+#### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+* Throughout my time at Makers Academy pair-programming and giving feedback was essential to my learning. Weekly retrospectives and group stand ups were a chance to voice any ideas and concerns.
+* Over ten years in retail has taught me the importance of great customer service. My role included daily staff meetings, recruitment, mentoring and scheduling.
 
-- Experience
-- Achievements
-- Evidence
+#### Creativity
 
-#### Another Skill
+* I have always been a creative person. I have been a freelance illustrator since 2000, creating innovative images to communicate visual ideas on a wide range of subject matter.
+* The skills learnt during my time at Makers Academy has given me the platform to unlock and realise all my creative ideas.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Learning
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+* Makers Academy wasn't about leaning as many languages and frameworks as possible, it taught me the skills how to learn. I'm now confident in approaching new ideas and technologies.
+* I have a constant need to learn new things. Whether learning a new programming language to create a new project to understanding new computer software in order to aid my illustration. 
+
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (December 2017 - April 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+* Curious and passionate about code.
+* Fast, independent learner
+* Great collaborator
+* OOP, TDD, MVC, DDD
+* Agile/XP
+* Ruby, Rails, JavaScript,
+* RSpec, Jasmine
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Loughborough University (September 1997 - June 2000)
 
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+* BA Hons Visual Communication: Illustration
+* Film studies
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Ben Challenor Illustration** (June 2000 - Present)    
+*Freelance Illustrator*
+* Digital photomontage illustration
+* Exemplary in Adobe Creative Suite
+* Clients include The Times, Oxford University Press, Tatler Hong Kong, The Guardian, The Telegraph, British Medical Journal, The Independent,
+
+**Fopp/HMV** (October 2003 - December 2017)   
+*Store Supervisor*
+* Responsible for the day today running of the companies flagship music, film and book retail store
+* Unparalleled customer service
+* Merchandising- product placement and sale strategies to achieve optimal success
+* Staff training, scheduling, mentoring and evaluation
+
+
+## Interests
+
+* Learning new technologies
+* Music, film and photography
+* Guitar and piano player
+* Running
