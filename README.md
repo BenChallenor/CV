@@ -6,6 +6,7 @@ I am a creative junior full-stack developer who recently graduated from Makers A
 
 | Project   | Description | Technologies | Testing |
 |---        |---          |---           |---      |
+|[Acheezable](https://github.com/BenChallenor/acheezable)| Final group project. A cheesy self-led personal development app to encourage positivity during the achievement of goals. Deployed on heroku <a href="http://acheezable.herokuapp.com/">here.</a> | JavaScript, Node.js, Express, MongoDB, HTML, CSS, jQuery | Cypress |
 |[Bombercat](https://github.com/BenChallenor/bombercat)| A week 9 group project at Makers Academy. A remake of the classic arcade game Bomberman. | JavaScript, CreateJS library, jQuery, CSS, HTML. | Jasmine |
 |[Instagram Challenge](https://github.com/BenChallenor/instagram-challenge)| A weekend solo project to create a version of Instagram. Users can view, upload, delete, comment, and like posts. | Ruby on Rails, Postgres, CSS, HTML. | RSpec |
 |[Rock, Paper, Scissors Challenge](https://github.com/BenChallenor/rps-challenge)| A weekend solo project to create a web application of the classic game 'Rock, Paper, Scissors' | Ruby, Sinatra | RSpec, Cabybara. |
@@ -25,7 +26,7 @@ I am a creative junior full-stack developer who recently graduated from Makers A
 #### Learning
 
 * Makers Academy wasn't about leaning as many languages and frameworks as possible, it taught me the skills how to learn. I'm now confident in approaching new ideas and technologies.
-* I have a constant need to learn new things. Whether learning a new programming language to create a new project to understanding new computer software in order to aid my illustration. 
+* I have a constant need to learn new things. Whether learning a new programming language to create a new project to understanding new computer software in order to aid my illustration.
 
 
 ## Education
