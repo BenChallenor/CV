@@ -6,8 +6,8 @@ I am a creative junior full-stack developer who recently graduated from Makers A
 
 | Project   | Description | Technologies | Testing |
 |---        |---          |---           |---      |
-|[Acheezable](https://github.com/BenChallenor/acheezable)| Final group project. A cheesy self-led personal development app to encourage positivity during the achievement of goals. Deployed on heroku <a href="http://acheezable.herokuapp.com/">here.</a> | JavaScript, Node.js, Express, MongoDB, HTML, CSS, jQuery | Cypress |
-|[Bombercat](https://github.com/BenChallenor/bombercat)| A week 9 group project at Makers Academy. A remake of the classic arcade game Bomberman. | JavaScript, CreateJS library, jQuery, CSS, HTML. | Jasmine |
+|[Acheezable](https://github.com/BenChallenor/acheezable)| Final group project. A cheesy self-led personal development app to encourage positivity during the achievement of goals. Deployed on Heroku <a href="http://acheezable.herokuapp.com/">here.</a> | JavaScript, Node.js, Express, MongoDB, HTML, CSS, jQuery | Cypress |
+|[Bombercat](https://github.com/BenChallenor/bombercat)| A week 9 group project at Makers Academy. A remake of the classic arcade game Bomberman. Deployed on Surge <a href="http://bombercat.surge.sh">here.</a>| JavaScript, CreateJS library, jQuery, CSS, HTML. | Jasmine |
 |[Instagram Challenge](https://github.com/BenChallenor/instagram-challenge)| A weekend solo project to create a version of Instagram. Users can view, upload, delete, comment, and like posts. | Ruby on Rails, Postgres, CSS, HTML. | RSpec |
 |[Rock, Paper, Scissors Challenge](https://github.com/BenChallenor/rps-challenge)| A weekend solo project to create a web application of the classic game 'Rock, Paper, Scissors' | Ruby, Sinatra | RSpec, Cabybara. |
 
