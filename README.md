@@ -51,7 +51,7 @@ I am a creative junior full-stack developer who recently graduated from Makers A
 
 **Ben Challenor Illustration** (June 2000 - Present)    
 *Freelance Illustrator*
-https://http://www.eyecandyillustration.com/home/ben-challenor
+http://www.eyecandyillustration.com/home/ben-challenor/
 * Digital photomontage illustration
 * Exemplary in Adobe Creative Suite
 * Clients include The Times, Oxford University Press, Tatler Hong Kong, The Guardian, The Telegraph, British Medical Journal, The Independent, Conde Nast
