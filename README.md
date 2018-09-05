@@ -2,14 +2,16 @@
 
 I am a creative junior full-stack developer who recently graduated from Makers Academy, a Web Development bootcamp in April 2018. After many years in retail management I needed a new challenge and a change to my career path. I am also a successful freelance illustrator, with clients including The Times and Conde Nast. I chose to become a developer because of my passion for creating things and I find solving problems gives me an enormous sense of achievement. I'm now looking for the opportunity to use my creativity and the skills I've developed to continue my learning in a developer role.
 
+
 ## Projects
 
 | Project   | Description | Technologies | Testing |
 |---        |---          |---           |---      |
 |[Acheezable](https://github.com/BenChallenor/acheezable)| Final group project. A cheesy self-led personal development app to encourage positivity during the achievement of goals. Deployed on Heroku <a href="http://acheezable.herokuapp.com/">here.</a> | JavaScript, Node.js, Express, MongoDB, HTML, CSS, jQuery | Cypress |
+|[Ask Mark Kermode](https://github.com/BenChallenor/Ask-Mark-Kermode)| A Mark Kermode movie review search app using the YouTube API | JavaScript, jQuery, HTML, CSS |
 |[Bombercat](https://github.com/BenChallenor/bombercat)| A week 9 group project at Makers Academy. A remake of the classic arcade game Bomberman. Deployed on Surge <a href="http://bombercat.surge.sh">here.</a>| JavaScript, CreateJS library, jQuery, CSS, HTML | Jasmine |
 |[Instagram Challenge](https://github.com/BenChallenor/instagram-challenge)| A weekend solo project to create a version of Instagram. Users can view, upload, delete, comment, and like posts. | Ruby on Rails, SQLite, Devise, Paperclip, CSS, HTML | RSpec |
-|[Rock, Paper, Scissors Challenge](https://github.com/BenChallenor/rps-challenge)| A weekend solo project to create a web application of the classic game 'Rock, Paper, Scissors' | Ruby, Sinatra | RSpec, Cabybara |
+
 
 ## Skills
 
