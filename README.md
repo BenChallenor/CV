@@ -7,9 +7,10 @@ I am a creative junior full-stack developer who recently graduated from Makers A
 
 | Project   | Description | Technologies | Testing |
 |---        |---          |---           |---      |
-|[Acheezable](https://github.com/BenChallenor/acheezable)| Final group project. A cheesy self-led personal development app to encourage positivity during the achievement of goals. Deployed on Heroku <a href="http://acheezable.herokuapp.com/">here.</a> | JavaScript, Node.js, Express, MongoDB, HTML, CSS, jQuery | Cypress |
-|[Ask Mark Kermode](https://github.com/BenChallenor/Ask-Mark-Kermode)| A Mark Kermode movie review search app using the YouTube API | JavaScript, jQuery, HTML, CSS |
+|[Ask Mark Kermode](https://github.com/BenChallenor/Ask-Mark-Kermode)| A Mark Kermode movie review search app using the YouTube API. Deployed on Heroku <a href="https://askmarkkermodeapp.herokuapp.com">here.</a> | JavaScript, jQuery, HTML, CSS |
+|[Acheezable](https://github.com/BenChallenor/acheezable)| Final group project at Makers Academy. A cheesy self-led personal development app to encourage positivity during the achievement of goals. Deployed on Heroku <a href="http://acheezable.herokuapp.com/">here.</a> | JavaScript, Node.js, Express, MongoDB, HTML, CSS, jQuery | Cypress |
 |[Bombercat](https://github.com/BenChallenor/bombercat)| A week 9 group project at Makers Academy. A remake of the classic arcade game Bomberman. Deployed on Surge <a href="http://bombercat.surge.sh">here.</a>| JavaScript, CreateJS library, jQuery, CSS, HTML | Jasmine |
+|[Zero Deposit FrontEnd Exercise](https://github.com/BenChallenor/frontend-exercise)| Turn a given portal login design in to a responsive website. Deployed on Heroku <a href="https://zero-deposit.herokuapp.com/">here.</a> | HTML, CSS |
 |[Instagram Challenge](https://github.com/BenChallenor/instagram-challenge)| A weekend solo project to create a version of Instagram. Users can view, upload, delete, comment, and like posts. | Ruby on Rails, SQLite, Devise, Paperclip, CSS, HTML | RSpec |
 
 
